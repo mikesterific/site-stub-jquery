@@ -1,0 +1,27 @@
+{
+  "name": "site-stub",
+  "description": "Angularish Site Stub",
+  "main": "index.html",
+  "authors": [
+    "Micheal Garrett Jones"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "site",
+    "stub"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-material": "^1.1.1",
+    "bootstrap": "^3.3.7",
+    "angular": "^1.5.8",
+    "angular-ui-router": "0.3.1"
+  }
+}

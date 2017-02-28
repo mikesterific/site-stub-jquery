@@ -1,0 +1,1449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"angu",
+				"angular-material.js"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"but",
+				"button\tTag"
+			],
+			[
+				"iframe",
+				"iframe\tTag"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"schedule",
+				"schedule-day-wrap"
+			],
+			[
+				"timein",
+				"time_inputs"
+			],
+			[
+				"sc",
+				"schedule"
+			],
+			[
+				"va",
+				"validateInput"
+			],
+			[
+				"vali",
+				"validation_list〔variable〕"
+			],
+			[
+				"texal",
+				"text-align"
+			],
+			[
+				"content",
+				"content-text-wrap"
+			],
+			[
+				"conet",
+				"content-wrap"
+			],
+			[
+				"get",
+				"getScheduleInputs"
+			],
+			[
+				"m",
+				"menu_background\t layout.scss"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"side-",
+				"side-menu-open\t layout.scss"
+			],
+			[
+				"ang",
+				"angular-local-storage/"
+			],
+			[
+				"strin",
+				"stringify"
+			],
+			[
+				"col",
+				"div.col"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"ur",
+				"urlRouterProvider"
+			],
+			[
+				"time",
+				"timeInSeconds"
+			],
+			[
+				"port",
+				"portfolio"
+			],
+			[
+				"inc",
+				"inc\tinclude-just-parens"
+			],
+			[
+				"animim",
+				"animationTime"
+			],
+			[
+				"scr",
+				"source\t<source>"
+			],
+			[
+				"discu",
+				"discussionStyle"
+			],
+			[
+				"dis",
+				"discussionStyle"
+			],
+			[
+				"jq",
+				"jqMobileInit"
+			],
+			[
+				"hei",
+				"heightRightPolygon"
+			],
+			[
+				"slpo",
+				"slashPolygon"
+			],
+			[
+				"stop",
+				"stopChecking"
+			],
+			[
+				"drop",
+				"dropDownMenu"
+			],
+			[
+				"ah",
+				"ahq-head-wrap"
+			],
+			[
+				"out",
+				"outerHeight\t.outerHeight()"
+			],
+			[
+				"te",
+				"textArea"
+			],
+			[
+				"insta",
+				"instanceId"
+			],
+			[
+				"slee",
+				"selectionSectionHTML"
+			],
+			[
+				"css",
+				"cssFileNames"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": " ",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!doctype html>\n<html class=\"no-js\" lang=\"\">\n    <head>\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"x-ua-compatible\" content=\"ie=edge\">\n        <title>My Site</title>\n        <meta name=\"description\" content=\"\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n        <link rel=\"apple-touch-icon\" href=\"apple-touch-icon.png\">\n        <!-- Place favicon.ico in the root directory -->\n\n        <link rel=\"stylesheet\" href=\"css/combined.css\">\n        <style>.active { color: red; font-weight: bold; }</style>\n    </head>\n    <body ng-app=\"main\">\n        <!--[if lt IE 8]>\n            <p class=\"browserupgrade\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n        <![endif]-->\n\n        <a ui-sref=\"hello\" ui-sref-active=\"active\">Hello</a>\n            <a ui-sref=\"about\" ui-sref-active=\"active\">About</a>\n        <ui-view></ui-view>\n        \n        <script src=\"js/min/combined-min.js\"></script>\n    </body>\n</html>\n",
+			"file": "index.html",
+			"file_size": 1052,
+			"file_write_time": 131195956620000000,
+			"settings":
+			{
+				"buffer_size": 1060,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "js",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"editor",
+				"Snippet: editorconfig"
+			],
+			[
+				"lineen",
+				"Line Endings Unify"
+			],
+			[
+				"editorcon",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"lin",
+				"Line Endings Unify"
+			],
+			[
+				"jsbeau",
+				"Javascript Beautify"
+			],
+			[
+				"jibe",
+				"Javascript Beautify"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jsbea",
+				"Javascript Beautify"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"sysnjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"synhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sys",
+				"Set Syntax: Sass"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS"
+			],
+			[
+				"package control:re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pi ",
+				"Package Control: Install Package"
+			],
+			[
+				"sysnhtml",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"git",
+				"Git: Add..."
+			],
+			[
+				"git ",
+				"Package Control: Add Repository"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"img",
+				"Snippet: input - image"
+			],
+			[
+				"obj",
+				"Snippet: my-object"
+			],
+			[
+				"synxm",
+				"Set Syntax: XML"
+			],
+			[
+				"synxml",
+				"Set Syntax: XML"
+			],
+			[
+				"xml",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"xml ",
+				"Set Syntax: WoW XML"
+			],
+			[
+				"hand",
+				"Snippet: handlebars-envoke"
+			],
+			[
+				"inclu",
+				"Snippet: sass-include"
+			],
+			[
+				"syssa",
+				"Set Syntax: Sass"
+			],
+			[
+				"syxml",
+				"Set Syntax: XML"
+			],
+			[
+				"beau",
+				"SassBeautify"
+			],
+			[
+				"scss",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"sy",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"on",
+				"Snippet: on-click-delegate"
+			],
+			[
+				"onc",
+				"Snippet: on-click-delegate"
+			],
+			[
+				"syshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syht",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sass",
+				"Set Syntax: SCSS"
+			],
+			[
+				"syjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ob",
+				"Snippet: Object Method"
+			],
+			[
+				"stjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"syphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sy h",
+				"Set Syntax: HTML"
+			],
+			[
+				"wtag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wrap t",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wraptag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"dele",
+				"Snippet: delegate"
+			],
+			[
+				"wrapta",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wrtag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 373.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"git remote add origin https://github.com/mikesterific/weblife-5-15.git",
+			"~/Library/Application Support/Sublime Text 3/Packages/User",
+			"open Packages/User",
+			"Packages/User",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mike/Dropbox/Customer Files/site-stubber/site-stub (jquery)"
+	],
+	"file_history":
+	[
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/.editorconfig",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/README.md",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/.jscsrc",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/server/app.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/node_modules/express/lib/router/route.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/app.module.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/server/utils/404.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/test-helpers/mock-data.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/dashboard/dashboard.controller.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/dashboard/dashboard.controller.spec.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/dashboard/dashboard.module.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/dashboard/dashboard.route.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/dashboard/dashboard.route.spec.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/server/data.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/login/login.route.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/admin/admin.controller.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/admin/admin.controller.spec.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/admin/admin.module.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/admin/admin.route.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/admin/admin.route.spec.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/blocks/exception/exception-handler.provider.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/blocks/exception/exception-handler.provider.spec.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/blocks/exception/exception.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/blocks/exception/exception.module.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/blocks/logger/logger.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/blocks/logger/logger.module.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/blocks/router/router-helper.provider.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/blocks/router/router.module.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/core/config.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/core/constants.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/core/core.module.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/core/core.route.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/core/core.route.spec.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/login/login.html",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/login/login.controller.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/gulp.config.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/node_modules/.bin/jshint",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/login/login.directives.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/styles/login.less",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/landing/landing.controller.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/landing/landing.route.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/bower_components/jquery/src/event.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/node_modules/errno/.jshintrc",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/layout/ht-sidebar.directive.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/layout/ht-sidebar.directive.spec.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/layout/ht-top-nav.directive.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/layout/layout.module.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/layout/shell.controller.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/layout/shell.controller.spec.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/layout/sidebar.controller.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/layout/sidebar.controller.spec.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/landing/index.html",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/bower_components/angular-ui-router/src/viewDirective.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/app/bower_componenets/angular/angular.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/node_modules/jshint/bin/jshint",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/index.html",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/login/login.service.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/.tmp/styles.css",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/template/loginTemplate.html",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/report/coverage/report-html/app/login/login.controller.js.html",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/landing/landing.module.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/report/coverage/report-lcov/lcov-report/app/login/login.controller.js.html",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/src/client/app/landing/landing.directives.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/app/bower_componenets/angular-animate/angular-animate.js",
+		"/Users/mike/Desktop/Karrie/karrie's Initials2.svg",
+		"/Users/mike/Desktop/Karrie/kerri logo.svg",
+		"/Users/mike/Desktop/Server Health Dashboard/css/layout.css",
+		"/Users/mike/Desktop/Server Health Dashboard/less/layout.less",
+		"/Users/mike/Desktop/Server Health Dashboard/d3.html",
+		"/Users/mike/Desktop/Server Health Dashboard/linechart.html",
+		"/Users/mike/Desktop/Server Health Dashboard/js/linechart.js",
+		"/Users/mike/Desktop/Server Health Dashboard/original.html",
+		"/Users/mike/Desktop/Server Health Dashboard/css/existing.css",
+		"/Users/mike/Desktop/Server Health Dashboard/less/common.less",
+		"/Users/mike/Desktop/Server Health Dashboard/less/existing.less",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/node_modules/browser-sync-ui/lib/directive-stripper.js",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/.gitignore",
+		"/Users/mike/Desktop/GotoWho - john papa/src/client/app/blocks/router/router-helper.provider.js",
+		"/Users/mike/Desktop/GotoWho - john papa/src/client/app/core/config.js",
+		"/Users/mike/Desktop/GotoWho - john papa/src/client/app/layout/ht-top-nav.html",
+		"/Users/mike/Desktop/GotoWho - john papa/src/client/app/layout/shell.controller.js",
+		"/Users/mike/Desktop/GotoWho - john papa/src/client/app/app.module.js",
+		"/Users/mike/Desktop/GotoWho - john papa/src/client/app/login/login.module.js",
+		"/Users/mike/Desktop/GotoWho - john papa/node_modules/redeyed/config.js",
+		"/Users/mike/Desktop/GotoWho - john papa/src/client/app/core/core.route.spec.js",
+		"/Users/mike/Desktop/GotoWho - john papa/node_modules/fsevents/node_modules/hoek/README.md",
+		"/Users/mike/Desktop/GotoWho - john papa/src/client/app/layout/sidebar.html",
+		"/Users/mike/Desktop/GotoWho - john papa/src/client/app/layout/sidebar.controller.js",
+		"/Users/mike/Desktop/GotoWho - john papa/src/client/app/login/login.html",
+		"/Users/mike/Desktop/GotoWho - john papa/src/client/index.html",
+		"/Users/mike/Desktop/GotoWho - john papa/src/client/app/login/login.controller.spec.js",
+		"/Users/mike/Desktop/GotoWho - john papa/src/client/app/login/login.route.spec.js",
+		"/Users/mike/Desktop/GotoWho - john papa/src/client/app/dashboard/dashboard.controller.js",
+		"/Users/mike/Desktop/ionic Gotowho/gotowho/plugins/ionic-plugin-keyboard/src/blackberry10/native/.project",
+		"/Users/mike/Desktop/GotoWho 2/src/bower_components/angular-material/modules/scss/angular-material.scss",
+		"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry/app/index.html",
+		"/Users/mike/Desktop/kerri logo.svg",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/js/combined.js",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/js/app.js",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw2/www/js/app.js",
+		"/Users/mike/Desktop/Why I Work non-angular/js/schedule.js",
+		"/Users/mike/Desktop/Why I Work non-angular/js/scheduleObj.js",
+		"/Users/mike/Desktop/Why I Work non-angular/js/storage.js",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/js/interfaceModule.js",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw2/www/partials/schedule-day.html",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/js/min/combined-min.js",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw2/www/js/main.js",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw2/www/js/scheduleObj.js",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/js/timeToMoney.js",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/js/storage.js",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/js/schedule.js",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/js/interface.js",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/less/combined.less",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/less/common.less",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/js/variables.js",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/less/fonts.less",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/js/directives.js",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/less/flipboard.less",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/js/flipboard.js",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/css/combined.css",
+		"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www/less/main-screen.less",
+		"/Users/mike/Dropbox/Customer Files/Dark Youtube Plugin/Dark-youtube-plugin-chrome/dark.less",
+		"/Users/mike/Dropbox/Customer Files/Dark Youtube Plugin/Dark-youtube-plugin-chrome/dark_comments.less",
+		"/Users/mike/Dropbox/Customer Files/Bing/js/script.js",
+		"/Users/mike/Desktop/Delly/delly/css/searchInterface.css",
+		"/Users/mike/Desktop/Delly/delly/templates/button.html",
+		"/Users/mike/Desktop/Delly/delly/js/nlp_compromise.js",
+		"/Users/mike/Desktop/Delly/delly/js/main.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry",
+			"/Users/mike/Desktop/Server Health Dashboard",
+			"/Users/mike/Dropbox/Customer Files/GotoWho/Client Site/gtw-jerry",
+			"/Users/mike/Desktop/GotoWho - john papa/src",
+			"/Users/mike/Desktop/GotoWho - john papa",
+			"/Users/mike/Desktop/ionic Gotowho/gotowho",
+			"/Users/mike/Desktop/GotoWho 2",
+			"/Users/mike/Desktop/GotoWho 2/appevent",
+			"/Users/mike/Desktop/WIW2/wiw2/wiw3/wiw3/www",
+			"/Users/mike/Desktop/Delly/delly",
+			"/Users/mike/Desktop/Why I Work non-angular,",
+			"/Users/mike/Dropbox/Customer Files/Why I Work non-angular",
+			"/Users/mike/Desktop/Why I Work App/ionic/wiw/scss,/Users/mike/Desktop/Why I Work App/ionic/wiw/www",
+			"/Users/mike/Dropbox/Customer Files/WhyIWork/wiw-site/wiw/www,/Users/mike/Dropbox/Customer Files/WhyIWork/wiw-site/wiw/scss",
+			"/Users/mike/Dropbox/Customer Files/WhyIWork/wiw-site/wiw",
+			"/Users/mike/Dropbox/Customer Files/Weblife Current/Weblife 5-15, -/Users/mike/Dropbox/Customer Files/Weblife Current/Weblife 5-15/css/*, -/Users/mike/Dropbox/Customer Files/Weblife Current/Weblife 5-15/Assets/*,",
+			"/Users/mike/Dropbox/Customer Files/Weblife 5-15, -/Users/mike/Dropbox/Customer Files/Weblife 5-15/css/*, -/Users/mike/Dropbox/Customer Files/Weblife 5-15/Assets/*",
+			"/Users/mike/Dropbox/EA/lithium-version-control, -/Users/mike/Dropbox/EA/lithium-version-control/css, -/Users/mike/Dropbox/EA/lithium-version-control/js/vendor",
+			"/Users/mike/Dropbox/Customer Files/EA RoomFinder JS,-/Users/mike/Dropbox/Customer Files/EA RoomFinder JS/css/*",
+			"/Users/mike/Dropbox/EA/lithium-version-control, -/Users/mike/Dropbox/EA/lithium-version-control/css/*, -/Users/mike/Dropbox/EA/lithium-version-control/js/vendor, ,/Users/mike/Dropbox/EA/lithium-version-control/js/ahq-combined-min.js",
+			"/Users/micjones/Sites/EAHQmicjones/lithium/AHQ/MAIN/lithium-version-control, -/Users/micjones/Sites/EAHQmicjones/lithium/AHQ/MAIN/lithium-version-control/css/*",
+			"/Users/mike/Dropbox/EA/RoomFinder, -/Users/mike/Dropbox/EA/RoomFinder/css/*, -/Users/mike/Dropbox/EA/RoomFinder/js/combined-min*",
+			"/Users/mike/Dropbox/EA/RoomFinder, -/Users/mike/Dropbox/EA/RoomFinder/css/*",
+			"/Users/mike/Dropbox/EA/RoomFinder, -,/Users/mike/Dropbox/EA/RoomFinder/css/*",
+			"/Users/mike/Dropbox/EA/RoomFinder, -,/Users/mike/Dropbox/EA/RoomFinder/css",
+			"/Users/mike/Dropbox/EA/lithium-version-control, -/Users/mike/Dropbox/EA/lithium-version-control/css/*, -/Users/mike/Dropbox/EA/lithium-version-control/js/vendor, ,/Users/mike/Dropbox/EA/lithium-version-control/js/ahq-combined-min.js",
+			"/Users/mike/Dropbox/EA/lithium-version-control, -/Users/mike/Dropbox/EA/lithium-version-control/css/*",
+			"/Users/micjones/Sites/EAHQmicjones/lithium/AHQ/MAIN/lithium-version-control, -/Users/micjones/Sites/EAHQmicjones/lithium/AHQ/MAIN/lithium-version-control/css/*",
+			"/Users/micjones/Sites/EAHQmicjones/sfdc/MAIN/frontend/omega/src",
+			"/Users/micjones/Sites/EAHQmicjones/sfdc/MAIN/frontend/omega/src/sass/",
+			"/Users/micjones/Sites/EAHQmicjones/sfdc/MAIN/frontend/omega/src/sass-we",
+			"/Users/micjones/Sites/EAHQmicjones/sfdc/DEV/devmj/overdrive/v1.00.1",
+			"/Users/micjones/Sites/EAHQmicjones/helpcenter/MAIN/src/EA/WWCE/HelpCenterBundle/Resources",
+			"/Users/micjones/Sites/EAHQmicjones/sfdc/DEV/devmj/overdrive/v1.00.1,-/Users/micjones/Sites/EAHQmicjones/sfdc/DEV/devmj/overdrive/v1.00.1/css/*,-/Users/micjones/Sites/EAHQmicjones/sfdc/DEV/devmj/overdrive/v1.00.1/assets/*",
+			"/Users/micjones/Sites/EAHQmicjones/sfdc/MAIN/frontend/omega/src, -/Users/micjones/Sites/EAHQmicjones/sfdc/MAIN/frontend/omega/src/css/*",
+			"/Users/micjones/Sites/EAHQmicjones/sfdc/MAIN/frontend/omega/src",
+			"/Users/micjones/Sites/Saleforce Layout Engine"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bitwise",
+			"joshing",
+			"styles.css",
+			"activated admin",
+			"activated",
+			"loginController",
+			"admin",
+			"login",
+			"templateUrl",
+			"forgot your password",
+			"style",
+			"style.less",
+			"style",
+			"p ",
+			"bottom-row",
+			"fullsize",
+			"#333",
+			"legend",
+			"symbol",
+			"marker",
+			"vm",
+			"chart",
+			"135de",
+			"45",
+			"p",
+			"<p",
+			"vm",
+			".vm",
+			"catsp",
+			"flex: 0 0 80px;",
+			"catsp",
+			".cat",
+			"vmcol",
+			"icon",
+			".cat",
+			"#columns",
+			"columns",
+			"#columns",
+			"#grid",
+			"grid",
+			"cpuVal",
+			"value",
+			"updateGraph",
+			"debug",
+			"compAndAssign",
+			"shade",
+			"initOpacity",
+			"updateTable",
+			"updateDeadTime",
+			".spec",
+			"catspec",
+			"catsup",
+			"dead",
+			"updateGraph",
+			"initializeHistogram",
+			"text",
+			"chart",
+			"cc++",
+			"cat",
+			"progfield",
+			"fullsize",
+			"cpu",
+			"<div class=\" ",
+			"class=\"symbols",
+			"catspec",
+			".text",
+			"#grid",
+			">' +",
+			"cc",
+			"makeVM",
+			"changeValues",
+			"login",
+			"jshint",
+			"login.route",
+			"login.controller.js",
+			"jshint",
+			"style",
+			"$primary",
+			"gotowho",
+			"appTitle",
+			"navbar-brand",
+			"dashboard",
+			"Admin",
+			"module",
+			"module('app.admin",
+			"navRoutes",
+			"created by joh",
+			"This is the ionic starter for ta",
+			"welcome",
+			"simple home screen website. Use it as a starting point to create someth",
+			"event",
+			"process.EventEmitter",
+			"eventemitter",
+			"{{schedule.",
+			"var schedule = {",
+			"convertDayNumberToDayName",
+			"settings",
+			"var settings",
+			"handle",
+			"var template = Handlebars.compile",
+			"turnTimerOn",
+			"turnTimerOn\n",
+			"turnTimerOn",
+			"storage.get",
+			"schedule.fil",
+			"url('/f",
+			"url('",
+			"hi",
+			"item-image-wrap",
+			"del-speech-input-wrap",
+			"dell-mock",
+			"suggested-",
+			"debugger",
+			"dl-bookmark-items",
+			"ng-repeat=\"bookmark in bookmarks\"",
+			"<a href=\"/\" class=\"btn",
+			"<!-- end ngRepeat: bookmark in bookmarks -->",
+			"<!-- ngRepeat: bookmark in bookmarks -->",
+			"$scope.bookmarks",
+			"<a href=\"#\" class=\"btn",
+			"<a href=\"#\" class=\"btn ",
+			"<suggested-item ng-repeat=\"item in suggestions\">",
+			"</suggested-item><!-- end ngRepeat: item in suggestions -->",
+			"<suggested-item ng-repeat=\"item in suggestions\">",
+			"<!-- ngRepeat: item in suggestions --><suggested-item ng-repeat=\"item in suggestions\">",
+			"indexof",
+			"nlp",
+			"item.imageUrl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".columns",
+			".grid",
+			"<div class=\"",
+			"class=\"",
+			">';",
+			"#2196F3",
+			"{{day.",
+			"url('../f",
+			"url('/fonts/",
+			"dl-bookmark-items list-unstyled",
+			"",
+			"<a href=\"javascript:;\" class=\"btn btn-primary",
+			"",
+			"scope.bookmarks",
+			"<a href=\"#\" class=\"btn btn-primary",
+			"",
+			"<img src=\"",
+			"lunchEnd",
+			"dayName",
+			"day.dayName",
+			"val()",
+			";",
+			"7",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			".png",
+			"src=\"/images/portfolio/joeparker.jpg\"",
+			"",
+			"joeparker.jpg",
+			"sp-green",
+			"sp-red",
+			"fill=\"#FFF\"",
+			"$green-dark",
+			"speedometer-fill",
+			"class=\"linkedin-fill\"",
+			"class=\"twitter-fill\"",
+			"class=\"google-fill\"",
+			"<span class=\"medium\">Solid <br>Understanding</span>",
+			"Expert<br>Level",
+			"Expert <br>Level",
+			"Expert Level",
+			"<span class=\"small\">Hello <br>World</span>",
+			"two",
+			"one",
+			"zero",
+			"al-st3",
+			"al-st1",
+			"al-st0",
+			"_",
+			"",
+			".php?room",
+			"php?",
+			"#",
+			"\"${",
+			"}\"",
+			"\"${",
+			"<#recover>",
+			"</#recover>",
+			"</recover></#attempt>",
+			"room",
+			"_",
+			"third",
+			"slash_clip",
+			"mask",
+			"slash_polygon",
+			"href=\"#\"",
+			"src=\"\"",
+			"=",
+			"src=\"\"",
+			"href=\"#\"",
+			"\"#\"",
+			"href=\"#\"",
+			"jq",
+			"}",
+			"$",
+			"sf-styled-select"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1039,
+								1039
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 100.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "site-stub-jquery.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dataser",
+				"src/client/app/core/dataservice.js"
+			],
+			[
+				"event",
+				"bower_components/jquery/src/event.js"
+			],
+			[
+				"htside",
+				"src/client/app/layout/ht-sidebar.directive.js"
+			],
+			[
+				"dire",
+				"bower_components/angular-ui-router/src/viewDirective.js"
+			],
+			[
+				"data.js",
+				"src/server/data.js"
+			],
+			[
+				"mock-data",
+				"src/client/test-helpers/mock-data.js"
+			],
+			[
+				"404.js",
+				"src/server/utils/404.js"
+			],
+			[
+				"app.mod",
+				"src/client/app/app.module.js"
+			],
+			[
+				"route.js",
+				"node_modules/express/lib/router/route.js"
+			],
+			[
+				"app.js",
+				"src/server/app.js"
+			],
+			[
+				"jshint",
+				"node_modules/jshint/bin/jshint"
+			],
+			[
+				"gulp",
+				"gulp.config.js"
+			],
+			[
+				"lointem",
+				"src/client/template/loginTemplate.html"
+			],
+			[
+				"service",
+				"src/client/app/core/dataservice.js"
+			],
+			[
+				"route",
+				"src/client/app/admin/admin.route.js"
+			],
+			[
+				"index.html",
+				"src/client/index.html"
+			],
+			[
+				"directive",
+				"node_modules/browser-sync-ui/lib/directive-stripper.js"
+			],
+			[
+				"directiv",
+				"bower_components/angular-ui-router/src/viewDirective.js"
+			],
+			[
+				"config",
+				"node_modules/redeyed/config.js"
+			],
+			[
+				"routerhel",
+				"src/client/app/blocks/router/router-helper.provider.js"
+			],
+			[
+				"ionic.pro",
+				"plugins/ionic-plugin-keyboard/src/blackberry10/native/.project"
+			],
+			[
+				"ang",
+				"angular.html"
+			],
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"layou",
+				"sass/layout.scss"
+			],
+			[
+				"ind",
+				"index.kit"
+			],
+			[
+				"shced",
+				"js/schedule.js"
+			],
+			[
+				"_ty",
+				"sass/_topography.scss"
+			],
+			[
+				"stor",
+				"js/storage.js"
+			],
+			[
+				"vari",
+				"sass/variables.scss"
+			],
+			[
+				"ham",
+				"sass/hamburger.scss"
+			],
+			[
+				"var",
+				"sass/variables.scss"
+			],
+			[
+				"site",
+				"sass/_site-loaded.scss"
+			],
+			[
+				"inde",
+				"index.kit"
+			],
+			[
+				"xpj",
+				"js/_xpJSON.js"
+			],
+			[
+				"portjs",
+				"js/_port.js"
+			],
+			[
+				"",
+				"android-icon-144x144.png"
+			],
+			[
+				"int",
+				"sass/_intro.scss"
+			],
+			[
+				"porob",
+				"js/_port-obj.js"
+			],
+			[
+				"common",
+				"js/_common.js"
+			],
+			[
+				"xp.js",
+				"js/_xp.js"
+			],
+			[
+				"mixn",
+				"sass/_mixins.scss"
+			],
+			[
+				"exte",
+				"sass/_extenders.scss"
+			],
+			[
+				"xp",
+				"js/_xp.js"
+			],
+			[
+				"hom",
+				"js/_home.js"
+			],
+			[
+				"ext",
+				"sass/_extenders.scss"
+			],
+			[
+				"intro",
+				"Weblife 5-15/sass/_intro.scss"
+			],
+			[
+				"hire",
+				"Weblife 5-15/sass/_hired.scss"
+			],
+			[
+				"hireme",
+				"Weblife 5-15/sass/_hire-me.scss"
+			],
+			[
+				"lay",
+				"Weblife 5-15/sass/_layout.scss"
+			],
+			[
+				"intor",
+				"Weblife 5-15/sass/_intro.scss"
+			],
+			[
+				"header",
+				"Weblife 5-15/sass/_header.scss"
+			],
+			[
+				"commjs",
+				"Weblife 5-15/js/_common.js"
+			],
+			[
+				"s",
+				"Weblife 5-15/svgSprite.kit"
+			],
+			[
+				"headers",
+				"Weblife 5-15/sass/_header.scss"
+			],
+			[
+				"sprite",
+				"Weblife 5-15/svgSprite.kit"
+			],
+			[
+				"xps",
+				"Weblife 5-15/sass/_xp.scss"
+			],
+			[
+				"book",
+				"Weblife 5-15/js/_book.js"
+			],
+			[
+				"sprit",
+				"Weblife 5-15/svgSprite.kit"
+			],
+			[
+				"spr",
+				"Weblife 5-15/svgSprite.kit"
+			],
+			[
+				"svg",
+				"Weblife 5-15/svgSprite.kit"
+			],
+			[
+				"mixin",
+				"Weblife 5-15/sass/_mixins.scss"
+			],
+			[
+				"sitloa",
+				"Weblife 5-15/sass/_site-loaded.scss"
+			],
+			[
+				"into",
+				"Weblife 5-15/sass/_intro.scss"
+			],
+			[
+				"index",
+				"Weblife 5-15/index.kit"
+			],
+			[
+				"xpjs",
+				"Weblife 5-15/js/_xp.js"
+			],
+			[
+				"font",
+				"Weblife 5-15/sass/_fonts.scss"
+			],
+			[
+				"typ",
+				"Weblife 5-15/sass/_typography.scss"
+			],
+			[
+				"mix",
+				"Weblife 5-15/sass/_mixins.scss"
+			],
+			[
+				"t",
+				"Weblife 5-15/sass/_typography.scss"
+			],
+			[
+				"paginjs",
+				"js/_pagination.js"
+			],
+			[
+				"twijs",
+				"js/_twitter.js"
+			],
+			[
+				"raw",
+				"includes/rawHTML.php"
+			],
+			[
+				"_aob",
+				"js/_about.js"
+			],
+			[
+				"sham",
+				"js/_shame.js"
+			],
+			[
+				"bottom",
+				"includes/bottom.php"
+			],
+			[
+				"room",
+				"js/_roomObj.js"
+			],
+			[
+				"indexk",
+				"index.kit"
+			],
+			[
+				"base",
+				"sass/_base.scss"
+			],
+			[
+				"top",
+				"includes/top.php"
+			],
+			[
+				"floor3",
+				"New Assets/floor 3.svg"
+			],
+			[
+				"headjs",
+				"js/_header.js"
+			],
+			[
+				"fif",
+				"sass/css/fifa.css"
+			],
+			[
+				"headersc",
+				"sass/_header-slash.scss"
+			],
+			[
+				"pagins",
+				"sass/_pagination.scss"
+			],
+			[
+				"gridcs",
+				"sass/_lithium-grid.scss"
+			],
+			[
+				"roomob",
+				"js/roomObj.js"
+			],
+			[
+				"slasscs",
+				"sass/_header-slash.scss"
+			],
+			[
+				"version.pro",
+				"sfdc/MAIN/frontend/omega/version.properties"
+			],
+			[
+				"build",
+				"sfdc/MAIN/frontend/omega/build.xml"
+			],
+			[
+				"build.x",
+				"sfdc/MAIN/src/build.xml"
+			],
+			[
+				"_base",
+				"sass/_base.scss"
+			],
+			[
+				"layout.scss",
+				"sass/layout.scss"
+			],
+			[
+				"case.scss",
+				"sass/modules/crm/case.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
