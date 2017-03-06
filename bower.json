@@ -1,27 +1,25 @@
 {
-  "name": "site-stub",
-  "description": "Angularish Site Stub",
-  "main": "index.html",
+  "name": "jquery-boilerplate",
+  "license": "MIT",
   "authors": [
-    "Micheal Garrett Jones"
+    "Zeno Rocha <hi@zenorocha.com>"
   ],
-  "license": "ISC",
+  "description": "A jump-start for jQuery plugins development.",
+  "homepage": "http://jqueryboilerplate.com",
   "keywords": [
-    "site",
-    "stub"
+    "jquery",
+    "plugin",
+    "boilerplate",
+    "jquery-plugin",
+    "jquery-boilerplate"
   ],
-  "homepage": "",
+  "main": "src/jquery.boilerplate.js",
+  "dependencies": {
+    "jquery": "1"
+  },
   "ignore": [
-    "**/.*",
-    "node_modules",
+    "npm-debug.log",
     "bower_components",
-    "test",
-    "tests"
-  ],
-  "devDependencies": {
-    "angular-material": "^1.1.1",
-    "bootstrap": "^3.3.7",
-    "angular": "^1.5.8",
-    "angular-ui-router": "0.3.1"
-  }
+    "node_modules"
+  ]
 }
